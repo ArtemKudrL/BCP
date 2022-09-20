@@ -1,0 +1,5 @@
+-std=c++17
+-lutil
+-lboost_iostreams
+-lboost_system
+-lboost_filesystem
